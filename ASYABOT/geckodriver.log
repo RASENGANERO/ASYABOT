@@ -1,0 +1,1157 @@
+1642621093798	geckodriver	INFO	Listening on 127.0.0.1:54763
+1642621094342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileecfSjs"
+1642621094805	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileecfSjs\\search.json.mozlz4", (void 0)))
+1642621097232	Marionette	INFO	Listening on port 54768
+1642621097532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642621783578	Marionette	INFO	Stopped listening on port 54768
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+621145641	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileX3CHNT\\search.json.mozlz4", (void 0)))
+1642621147547	Marionette	INFO	Listening on port 54836
+1642621147979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642621155632	Marionette	INFO	Stopped listening on port 54836
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642621216544	geckodriver	INFO	Listening on 127.0.0.1:55078
+1642621217068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileLEQ5KD"
+1642621217393	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileLEQ5KD\\search.json.mozlz4", (void 0)))
+1642621219326	Marionette	INFO	Listening on port 55083
+1642621219729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642621221498	Marionette	INFO	Stopped listening on port 55083
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642621258894	geckodriver	INFO	Listening on 127.0.0.1:55130
+1642621259433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilelo19ay"
+1642621259751	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilelo19ay\\search.json.mozlz4", (void 0)))
+1642621261609	Marionette	INFO	Listening on port 55135
+1642621262097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642621503332	Marionette	INFO	Stopped listening on port 55135
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileEJhTbH"
+1642621332380	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileEJhTbH\\search.json.mozlz4", (void 0)))
+1642621334355	Marionette	INFO	Listening on port 55937
+1642621334702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642621337403	Marionette	INFO	Stopped listening on port 55937
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642621358919	geckodriver	INFO	Listening on 127.0.0.1:56038
+1642621359436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileEXs72B"
+1642621359764	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileEXs72B\\search.json.mozlz4", (void 0)))
+1642621361816	Marionette	INFO	Listening on port 56043
+1642621362108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642621603785	Marionette	INFO	Stopped listening on port 56043
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileBKRlUk"
+1642621398764	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileBKRlUk\\search.json.mozlz4", (void 0)))
+1642621400883	Marionette	INFO	Listening on port 56107
+1642621401081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642621642735	Marionette	INFO	Stopped listening on port 56107
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileJqqs5K"
+1642621426860	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileJqqs5K\\search.json.mozlz4", (void 0)))
+1642621428749	Marionette	INFO	Listening on port 56178
+1642621429186	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642621670460	Marionette	INFO	Stopped listening on port 56178
+1642621818454	geckodriver	INFO	Listening on 127.0.0.1:56501
+1642621819011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilesudXFn"
+1642621819423	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilesudXFn\\search.json.mozlz4", (void 0)))
+1642621821736	Marionette	INFO	Listening on port 56506
+1642621822201	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642622063395	Marionette	INFO	Stopped listening on port 56506
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqQ9fL0"
+1642621874714	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqQ9fL0\\search.json.mozlz4", (void 0)))
+1642621876621	Marionette	INFO	Listening on port 56586
+1642621877031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642622118239	Marionette	INFO	Stopped listening on port 56586
+1642622160905	geckodriver	INFO	Listening on 127.0.0.1:56763
+1642622161471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileEFdNCy"
+1642622161886	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileEFdNCy\\search.json.mozlz4", (void 0)))
+1642622164208	Marionette	INFO	Listening on port 56768
+1642622164649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642622405867	Marionette	INFO	Stopped listening on port 56768
+2622212352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilegJzbvV"
+1642622212677	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilegJzbvV\\search.json.mozlz4", (void 0)))
+1642622214578	Marionette	INFO	Listening on port 56842
+1642622215015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642622427309	Marionette	INFO	Stopped listening on port 56842
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+622409240	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilepTThOy\\search.json.mozlz4", (void 0)))
+1642622411278	Marionette	INFO	Listening on port 56936
+1642622411527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642622421186	Marionette	INFO	Stopped listening on port 56936
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1642622944357	geckodriver	INFO	Listening on 127.0.0.1:57249
+1642622944908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekkFXlM"
+1642622945337	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekkFXlM\\search.json.mozlz4", (void 0)))
+1642622947501	Marionette	INFO	Listening on port 57254
+1642622947578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1642622980467	Marionette	INFO	Stopped listening on port 57254
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643757754503	geckodriver	INFO	Listening on 127.0.0.1:58535
+1643757754979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileTLyxCO"
+1643757755907	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileTLyxCO\\search.json.mozlz4", (void 0)))
+1643757758502	Marionette	INFO	Listening on port 58540
+1643757758658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+[Child 2280, MediaDecoderStateMachine #1] WARNING: 27010a6e120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 2280, MediaDecoderStateMachine #1] WARNING: 2700e583f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 2280, MediaDecoderStateMachine #1] WARNING: 2700e583f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 2280, MediaDecoderStateMachine #1] WARNING: 2700e583f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1643757999894	Marionette	INFO	Stopped listening on port 58540
+[Parent 12424, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1643758022725	geckodriver	INFO	Listening on 127.0.0.1:60378
+1643758023265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileANiKHX"
+1643758023673	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileANiKHX\\search.json.mozlz4", (void 0)))
+1643758025475	Marionette	INFO	Listening on port 60383
+1643758025931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+[GFX1-]: Failed to get descriptor for recorded texture.
+1643758383865	Marionette	INFO	Stopped listening on port 60383
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileWZzCW5\\search.json.mozlz4", (void 0)))
+1643758174550	Marionette	INFO	Listening on port 61244
+1643758174746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1643758374614	Marionette	INFO	Stopped listening on port 61244
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilex0MKR6\\search.json.mozlz4", (void 0)))
+1643758206468	Marionette	INFO	Listening on port 61349
+1643758206891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+[GFX1-]: Failed to get descriptor for recorded texture.
+1643758385526	Marionette	INFO	Stopped listening on port 61349
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Users\\User\\AppData\\Local\\Temp\\rust_mozprofileuWIlIg"
+1643758371815	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileuWIlIg\\search.json.mozlz4", (void 0)))
+1643758373763	Marionette	INFO	Listening on port 50586
+1643758374133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1643758450998	Marionette	INFO	Stopped listening on port 50586
+1643758493947	geckodriver	INFO	Listening on 127.0.0.1:50723
+1643758494474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileEProox"
+1643758494942	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileEProox\\search.json.mozlz4", (void 0)))
+1643758496993	Marionette	INFO	Listening on port 50728
+1643758497137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2314))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2314))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2314))
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+JavaScript error: https://www.instagram.com/redfusi1234/, line 52: TypeError: window.__bufferedErrors is undefined
+JavaScript error: debugger eval code, line 3: TypeError: document.scrollTo is not a function
+console.error: "Task cancelled"
+console.error: "Unable to find target with innerWindowId:64"
+console.error: "Unable to find target with innerWindowId:64"
+console.error: "Unable to find target with innerWindowId:64"
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1062"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1062:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:635:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:744:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1062, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1161:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1386:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1109:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:638:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:744:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1161, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1161))
+console.error: "Unable to find target with innerWindowId:66"
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1062"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1062:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:635:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:744:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1062, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1161:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1386:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1109:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:638:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:744:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1161, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1161))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2314))
+1643760737095	Marionette	INFO	Stopped listening on port 50728
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+3760734704	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileqAlr5O\\search.json.mozlz4", (void 0)))
+1643760737140	Marionette	INFO	Listening on port 50886
+1643760737525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+[GFX1-]: Failed to get descriptor for recorded texture.
+1643760953679	Marionette	INFO	Stopped listening on port 50886
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+mp\\rust_mozprofilepI5QAU\\search.json.mozlz4", (void 0)))
+1643760939995	Marionette	INFO	Listening on port 51074
+1643760940312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1643760964470	Marionette	INFO	Stopped listening on port 51074
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643762361852	geckodriver	INFO	Listening on 127.0.0.1:51948
+1643762362416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQM2s0W"
+1643762362910	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQM2s0W\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1643762392324	geckodriver	INFO	Listening on 127.0.0.1:51993
+1643762392891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileYwOGUv"
+1643762393287	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileYwOGUv\\search.json.mozlz4", (void 0)))
+1643762395392	Marionette	INFO	Listening on port 51999
+1643762395553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1643762412843	Marionette	INFO	Stopped listening on port 51999
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643762462075	geckodriver	INFO	Listening on 127.0.0.1:52104
+1643762462603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGUGf7q"
+1643762463013	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGUGf7q\\search.json.mozlz4", (void 0)))
+1643762465104	Marionette	INFO	Listening on port 52109
+1643762465267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1643762487212	Marionette	INFO	Stopped listening on port 52109
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643764018031	geckodriver	INFO	Listening on 127.0.0.1:52954
+1643764018580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile6P3uB9"
+1643764019045	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile6P3uB9\\search.json.mozlz4", (void 0)))
+1643764021424	Marionette	INFO	Listening on port 52959
+1643764021740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript warning: debugger eager eval code, line 4: unreachable code after return statement
+JavaScript warning: resource://devtools/server/actors/webconsole/eval-with-debugger.js, line 272: unreachable code after return statement
+JavaScript warning: debugger eager eval code, line 4: unreachable code after return statement
+JavaScript warning: resource://devtools/server/actors/webconsole/eval-with-debugger.js, line 272: unreachable code after return statement
+JavaScript warning: debugger eager eval code, line 3: unreachable code after return statement
+JavaScript warning: debugger eager eval code, line 3: unreachable code after return statement
+JavaScript warning: debugger eager eval code, line 3: unreachable code after return statement
+JavaScript warning: debugger eager eval code, line 3: unreachable code after return statement
+JavaScript warning: debugger eager eval code, line 3: unreachable code after return statement
+JavaScript warning: debugger eager eval code, line 3: unreachable code after return statement
+JavaScript warning: debugger eager eval code, line 3: unreachable code after return statement
+JavaScript warning: debugger eager eval code, line 3: unreachable code after return statement
+JavaScript warning: debugger eager eval code, line 3: unreachable code after return statement
+1643764493560	Marionette	INFO	Stopped listening on port 52959
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+r: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilecEejoK\\search.json.mozlz4", (void 0)))
+1643764372901	Marionette	INFO	Listening on port 53251
+1643764373056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1643764494224	Marionette	INFO	Stopped listening on port 53251
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileBduC7Q\\search.json.mozlz4", (void 0)))
+1643764449723	Marionette	INFO	Listening on port 53381
+1643764450151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1643764495038	Marionette	INFO	Stopped listening on port 53381
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileEnBBe5\\search.json.mozlz4", (void 0)))
+1643764493568	Marionette	INFO	Listening on port 53486
+1643764493589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1643765283169	Marionette	INFO	Stopped listening on port 53486
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+oreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3IiS2c"
+1643764532559	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3IiS2c\\search.json.mozlz4", (void 0)))
+1643764534457	Marionette	INFO	Listening on port 53593
+1643764534812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1643767267433	Marionette	INFO	Stopped listening on port 53593
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+oreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileboGLfX"
+1643764601511	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileboGLfX\\search.json.mozlz4", (void 0)))
+1643764603489	Marionette	INFO	Listening on port 53712
+1643764603849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1643764664560	Marionette	INFO	Stopped listening on port 53712
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643764764111	geckodriver	INFO	Listening on 127.0.0.1:53872
+1643764764638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileTvByRS"
+1643764764965	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileTvByRS\\search.json.mozlz4", (void 0)))
+1643764767145	Marionette	INFO	Listening on port 53877
+1643764767299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643764813898	Marionette	INFO	Stopped listening on port 53877
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643766556186	geckodriver	INFO	Listening on 127.0.0.1:51660
+1643766556721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileA4X66j"
+1643766557049	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileA4X66j\\search.json.mozlz4", (void 0)))
+1643766558954	Marionette	INFO	Listening on port 51665
+1643766559361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/4607e5074e51.js, line 85: Script terminated by timeout at:
+I@https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/4607e5074e51.js:85:2262
+v@https://www.instagram.com/static/bundles/es6/ConsumerUICommons.js/634e22668609.js:28:187
+
+1643766734180	Marionette	INFO	Stopped listening on port 51665
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1643766874584	geckodriver	INFO	Listening on 127.0.0.1:51907
+1643766875138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilePLeExX"
+1643766875458	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilePLeExX\\search.json.mozlz4", (void 0)))
+1643766877325	Marionette	INFO	Listening on port 51912
+1643766877788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1643767268378	Marionette	INFO	Stopped listening on port 51912
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilenDooT7\\search.json.mozlz4", (void 0)))
+1643766980737	Marionette	INFO	Listening on port 52052
+1643766980884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1643767269177	Marionette	INFO	Stopped listening on port 52052
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile62wcuN\\search.json.mozlz4", (void 0)))
+1643767029540	Marionette	INFO	Listening on port 52165
+1643767029801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1643767072550	Marionette	INFO	Stopped listening on port 52165
+1643767262311	geckodriver	INFO	Listening on 127.0.0.1:52364
+1643767262867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile1fQYRf"
+1643767263193	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile1fQYRf\\search.json.mozlz4", (void 0)))
+1643767265264	Marionette	INFO	Listening on port 52369
+1643767265535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643767271327	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1643767297291	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1643767300889	Marionette	INFO	Stopped listening on port 52369
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643767305015	geckodriver	INFO	Listening on 127.0.0.1:52450
+1643767305569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileC137hl"
+1643767305970	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileC137hl\\search.json.mozlz4", (void 0)))
+1643767308236	Marionette	INFO	Listening on port 52456
+1643767308752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1643767348576	Marionette	INFO	Stopped listening on port 52456
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644008344548	geckodriver	INFO	Listening on 127.0.0.1:52738
+1644008345067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile685LLH"
+1644008346018	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile685LLH\\search.json.mozlz4", (void 0)))
+1644008348623	Marionette	INFO	Listening on port 52743
+1644008348777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644008356766	Marionette	INFO	Stopped listening on port 52743
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1644010563004	geckodriver	INFO	Listening on 127.0.0.1:57229
+1644010563543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileIzIZ8G"
+1644010564015	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileIzIZ8G\\search.json.mozlz4", (void 0)))
+1644010566159	Marionette	INFO	Listening on port 57234
+1644010566231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644010807485	Marionette	INFO	Stopped listening on port 57234
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644010908946	geckodriver	INFO	Listening on 127.0.0.1:58330
+1644010909512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilee1Aw1Z"
+1644010910010	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilee1Aw1Z\\search.json.mozlz4", (void 0)))
+1644010912381	Marionette	INFO	Listening on port 58335
+1644010912690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1644013796200	Marionette	INFO	Stopped listening on port 58335
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+oreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyzxuSE"
+1644011023603	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyzxuSE\\search.json.mozlz4", (void 0)))
+1644011025548	Marionette	INFO	Listening on port 58476
+1644011025918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644011066557	Marionette	INFO	Stopped listening on port 58476
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644014643027	geckodriver	INFO	Listening on 127.0.0.1:62005
+1644014643566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileihA8cf"
+1644014644140	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileihA8cf\\search.json.mozlz4", (void 0)))
+1644014646334	Marionette	INFO	Listening on port 62011
+1644014646731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644014675494	Marionette	INFO	Stopped listening on port 62011
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644015058263	geckodriver	INFO	Listening on 127.0.0.1:62395
+1644015058809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileM61hec"
+1644015059335	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileM61hec\\search.json.mozlz4", (void 0)))
+1644015061791	Marionette	INFO	Listening on port 62400
+1644015061981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644015089253	Marionette	INFO	Stopped listening on port 62400
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: IOUtils: Shutting down and refusing additional I/O tasks
+1644016040371	geckodriver	INFO	Listening on 127.0.0.1:63378
+1644016040917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileJ3VEBZ"
+1644016041392	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileJ3VEBZ\\search.json.mozlz4", (void 0)))
+1644016043859	Marionette	INFO	Listening on port 63383
+1644016044088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 5632, MediaDecoderStateMachine #1] WARNING: 1dd380952e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5632, MediaDecoderStateMachine #1] WARNING: 1dd27a8be40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5632, MediaDecoderStateMachine #1] WARNING: 1dd27a8be40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5632, MediaDecoderStateMachine #1] WARNING: 1dd27a8b200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1644016285357	Marionette	INFO	Stopped listening on port 63383
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644016635495	geckodriver	INFO	Listening on 127.0.0.1:64062
+1644016636053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileN8bc91"
+1644016636528	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileN8bc91\\search.json.mozlz4", (void 0)))
+1644016638696	Marionette	INFO	Listening on port 64068
+1644016638738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1644017240606	Marionette	INFO	Stopped listening on port 64068
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+led
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHThS2w\\search.json.mozlz4", (void 0)))
+1644016723851	Marionette	INFO	Listening on port 64241
+1644016724157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1644017240726	Marionette	INFO	Stopped listening on port 64241
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilelub2HA"
+1644016778053	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilelub2HA\\search.json.mozlz4", (void 0)))
+1644016780051	Marionette	INFO	Listening on port 64376
+1644016780377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1644017240598	Marionette	INFO	Stopped listening on port 64376
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilewUcT92\\search.json.mozlz4", (void 0)))
+1644016994549	Marionette	INFO	Listening on port 64661
+1644016994967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1644017240730	Marionette	INFO	Stopped listening on port 64661
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+profileXMrqdH"
+1644017078629	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileXMrqdH\\search.json.mozlz4", (void 0)))
+1644017080820	Marionette	INFO	Listening on port 64844
+1644017080948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1644017240627	Marionette	INFO	Stopped listening on port 64844
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1644017246825	geckodriver	INFO	Listening on 127.0.0.1:65103
+1644017247369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileftGbs5"
+1644017247802	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileftGbs5\\search.json.mozlz4", (void 0)))
+1644017249760	Marionette	INFO	Listening on port 65109
+1644017250041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1644017578022	Marionette	INFO	Stopped listening on port 65109
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileJTMS48\\search.json.mozlz4", (void 0)))
+1644017364226	Marionette	INFO	Listening on port 65300
+1644017364246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1644017578020	Marionette	INFO	Stopped listening on port 65300
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQNekYw\\search.json.mozlz4", (void 0)))
+1644017416788	Marionette	INFO	Listening on port 65438
+1644017417143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644017532268	Marionette	INFO	Stopped listening on port 65438
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644017739868	geckodriver	INFO	Listening on 127.0.0.1:49447
+1644017740427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8mLnqV"
+1644017740866	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8mLnqV\\search.json.mozlz4", (void 0)))
+1644017743265	Marionette	INFO	Listening on port 49453
+1644017743598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644017865109	Marionette	INFO	Stopped listening on port 49453
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644017886284	geckodriver	INFO	Listening on 127.0.0.1:49682
+1644017886834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileBNttRV"
+1644017887256	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileBNttRV\\search.json.mozlz4", (void 0)))
+1644017889071	Marionette	INFO	Listening on port 49695
+1644017889485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644017960237	Marionette	INFO	Stopped listening on port 49695
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilefJqCR2\\search.json.mozlz4", (void 0)))
+1644017961081	Marionette	INFO	Listening on port 49850
+1644017961334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1644017981823	Marionette	INFO	Stopped listening on port 49850
+1644018105579	geckodriver	INFO	Listening on 127.0.0.1:50126
+1644018106143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8LYa0u"
+1644018106592	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8LYa0u\\search.json.mozlz4", (void 0)))
+1644018109039	Marionette	INFO	Listening on port 50131
+1644018109309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1644018454134	Marionette	INFO	Stopped listening on port 50131
+4018174394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileBNRbxN"
+1644018174730	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileBNRbxN\\search.json.mozlz4", (void 0)))
+1644018176659	Marionette	INFO	Listening on port 50289
+1644018177045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1644018454170	Marionette	INFO	Stopped listening on port 50289
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+or("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilex5eEBN\\search.json.mozlz4", (void 0)))
+1644018238499	Marionette	INFO	Listening on port 50428
+1644018238811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1644018454127	Marionette	INFO	Stopped listening on port 50428
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+s\\User\\AppData\\Local\\Temp\\rust_mozprofiletLnh5q"
+1644018320453	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiletLnh5q\\search.json.mozlz4", (void 0)))
+1644018322345	Marionette	INFO	Listening on port 50590
+1644018322772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1644018342647	Marionette	INFO	Stopped listening on port 50590
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644018462459	geckodriver	INFO	Listening on 127.0.0.1:50826
+1644018463013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilesJBjES"
+1644018463461	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilesJBjES\\search.json.mozlz4", (void 0)))
+1644018465821	Marionette	INFO	Listening on port 50831
+1644018466188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1644018486509	Marionette	INFO	Stopped listening on port 50831
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645025042086	geckodriver	INFO	Listening on 127.0.0.1:57233
+1645025042580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileCp0SYK"
+1645025043175	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileCp0SYK\\search.json.mozlz4", (void 0)))
+1645025045584	Marionette	INFO	Listening on port 57238
+1645025045779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 21336, MediaDecoderStateMachine #1] WARNING: 22b8105dac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1645026584769	Marionette	INFO	Stopped listening on port 57238
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+025142120	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilePC0U58\\search.json.mozlz4", (void 0)))
+1645025144128	Marionette	INFO	Listening on port 57401
+1645025144443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+[GFX1-]: Failed to get descriptor for recorded texture.
+[GFX1-]: Killing GPU process due to IPC reply timeout
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close 
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+[GFX
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x52000D,name=PGPU::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+1645026594851	Marionette	INFO	Stopped listening on port 57401
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x520014,name=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x360008,name=PCompositorBridge::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x520014,name=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x520014,name=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x520014,name=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x520014,name=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x520014,name=PGPU::Msg_RemoveLayerTreeIdMapping) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x360008,name=PCompositorBridge::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x360008,name=PCompositorBridge::Msg___delete__) Channel error: cannot send/recv
+
+[Parent 9456, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:402
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA90026,name=PWebRenderBridge::Msg_Shutdown) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645032358725	geckodriver	INFO	Listening on 127.0.0.1:56907
+1645032359281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQBjvnY"
+1645032359742	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileQBjvnY\\search.json.mozlz4", (void 0)))
+1645032362111	Marionette	INFO	Listening on port 56913
+1645032362431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 951))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:951:7
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:204:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1451:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1522:10
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:204:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2314))
+1645032715456	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js, line 11: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+[GFX1-]: Failed to get descriptor for recorded texture.
+[GFX1-]: Killing GPU process due to IPC reply timeout
+1645033261406	Marionette	INFO	Stopped listening on port 56913
+[Parent 19380, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:542
+[Parent 19380, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:402
+ile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileUevFLZ\\search.json.mozlz4", (void 0)))
+1645033085828	Marionette	INFO	Listening on port 56957
+1645033086329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 21600, MediaDecoderStateMachine #1] WARNING: 17c2668a4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1645033251269	Marionette	INFO	Stopped listening on port 56957
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1645033258409	geckodriver	INFO	Listening on 127.0.0.1:57144
+1645033258964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileBNyPR0"
+1645033259312	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileBNyPR0\\search.json.mozlz4", (void 0)))
+1645033261287	Marionette	INFO	Listening on port 57149
+1645033261635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645033300894	Marionette	INFO	Stopped listening on port 57149
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1645033337150	geckodriver	INFO	Listening on 127.0.0.1:57274
+1645033337700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilef4TCJw"
+1645033338108	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilef4TCJw\\search.json.mozlz4", (void 0)))
+1645033340021	Marionette	INFO	Listening on port 57279
+1645033340358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+[Child 23380, MediaDecoderStateMachine #1] WARNING: 19442f72900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1645033698559	Marionette	INFO	Stopped listening on port 57279
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile692s6T\\search.json.mozlz4", (void 0)))
+1645033446197	Marionette	INFO	Listening on port 57417
+1645033446604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1645033697818	Marionette	INFO	Stopped listening on port 57417
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+oreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8gI6ls"
+1645033559138	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile8gI6ls\\search.json.mozlz4", (void 0)))
+1645033561425	Marionette	INFO	Listening on port 57569
+1645033561458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1645033697102	Marionette	INFO	Stopped listening on port 57569
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileHL0wBN\\search.json.mozlz4", (void 0)))
+1645033694136	Marionette	INFO	Listening on port 50774
+1645033694435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1645033837002	Marionette	INFO	Stopped listening on port 50774
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiledk3thw\\search.json.mozlz4", (void 0)))
+1645033837332	Marionette	INFO	Listening on port 50935
+1645033837718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1645033968784	Marionette	INFO	Stopped listening on port 50935
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
